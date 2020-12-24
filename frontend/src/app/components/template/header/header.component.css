@@ -1,0 +1,27 @@
+.header {
+  display: flex;
+  background-color: #F2F0FA;
+  align-items: center;
+}
+
+.header a {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+}
+
+.header .logo {
+  height: 32px;
+  margin-left: 50px;
+}
+
+.header .title__group{
+  margin: 0 0 0 32px;
+  color: #ccc;
+  font-size: 16px;
+}
+
+.header .title__group i{
+  margin-right: 5px;
+  color: #A233FF
+}

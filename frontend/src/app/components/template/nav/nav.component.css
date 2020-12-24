@@ -1,0 +1,24 @@
+.sidenav {
+  background-color: #f2f0fa;
+  width: 64px;
+}
+
+.sidenav a {
+  color: #7900df;
+}
+
+.nav-list {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.nav-list a {
+  cursor: pointer;
+  margin: 10px 0
+}
+
+.nav-list a:hover {
+  color: #9F90DF;
+}

@@ -1,0 +1,14 @@
+.footer {
+  bottom: 0;
+  position: fixed;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #F2F0FA;
+  color: #7900df;
+}
+
+.footer i {
+  margin-left: 5px;
+  color: #ff0000
+}
