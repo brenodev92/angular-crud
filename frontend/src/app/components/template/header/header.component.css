@@ -11,8 +11,8 @@
 }
 
 .header .logo {
-  height: 32px;
-  margin-left: 50px;
+  width: 150px;
+  margin-left: 20px;
 }
 
 .header .title__group{
