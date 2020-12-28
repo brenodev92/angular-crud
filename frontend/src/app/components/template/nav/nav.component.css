@@ -22,3 +22,9 @@
 .nav-list a:hover {
   color: #9F90DF;
 }
+
+.content {
+  padding: 20px;
+  background-color: #fff;
+  color: #000
+}
